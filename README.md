@@ -1,5 +1,8 @@
 # yourcopilot
 Prompt Library for Generative AI
 
-## Inhalt
-Hier sammle ich die Ergebnisse meiner Arbeit mit Generative AI wie CHATGPT, Copilot & Co
+## 42Copilot
+42Copilot ist eine Videoserie, in der Microsoft MVP Michael Greth Prompts für Microsoft 365 Copilot erstellt und austestet.
+
+Die Videos sind in dieser Youtube Playlist gespeichert
+https://www.youtube.com/playlist?list=PL66r0mRA8am-CdjGY701TT9JiXssOVDCD
